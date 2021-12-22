@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-RID16-05-PCO2WB000-recovered_host-pco2w_abc_dcl_instrument_recovered
 data_stream: CE01ISSM-RID16-05-PCO2WB000-recovered_host-pco2w_abc_dcl_instrument_recovered
-end_date: '2021-02-08T21:35:30.744Z'
-last_updated: '2021-10-06T02:08:37.666295'
+end_date: '2021-09-17T14:35:32.172Z'
+last_updated: '2021-12-22T06:43:44.536334Z'
 start_date: '2014-04-17T21:05:30.858Z'
-status: success
+status: pending
